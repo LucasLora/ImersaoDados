@@ -39,12 +39,12 @@ Imersão Dados é um projeto da Alura, uma escola de ensino de tecnologia online
     
 ## Instalação
 
-1. Clone este repositório para sua máquina local
+1. Clone este repositório para sua máquina local.
 
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto.
 
-3. Instale as dependências necessárias
+3. Instale as dependências necessárias.
 
-4. Inicie o Jupyter Notebook:
+4. Inicie o Jupyter Notebook.
 
 5. Abra os notebooks fornecidos para cada dia e siga as instruções.
